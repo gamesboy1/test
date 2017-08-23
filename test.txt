@@ -1,3 +1,7 @@
 hello world
 hi develop branch
+<<<<<<< HEAD
 hi master branch
+=======
+hi develop again
+>>>>>>> develop
